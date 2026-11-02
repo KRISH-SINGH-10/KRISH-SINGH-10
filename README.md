@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CGPA-10.0-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hackyard%202026-Runner-Up-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hackyard%20Winners-success?style=for-the-badge" />
 </p>
 
 ---
