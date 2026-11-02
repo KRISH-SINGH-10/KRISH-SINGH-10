@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CGPA-10.0-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hackyard%20Winners-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hackyard_2026-Winner-orange?style=for-the-badge" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 - 🎓 B.Tech CSE student (Class of 2028) at Ramdeobaba University, Nagpur
 - 🔬 **Research Project under IIT Bombay** (Aug 2026 – Present): Drone Data Augmentation Pipeline
 - 🌐 **Open Source:** merged PR in **Kedro** (McKinsey QuantumBlack, LF AI & Data) · approved PR in **NVIDIA Megatron-LM**
-- 🏆  **2nd Place in the offline finals of Hackyard 2026 at IIT Guwahati**
+- 🏆 **Winner, Hackyard 2026** at IIT Guwahati
 - 🥇 **Academic Excellence Award**: 2024 and 2025
 - 🎯 Currently looking for a **Software Engineering / AI-ML internship**
 
