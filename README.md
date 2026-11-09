@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/badge/Hackyard_2026-Runner--Up-orange?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <a href="Krish_Singh_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download_PDF-1f3a5f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume (PDF)" /></a>
+</p>
+
 ---
 
 ### 🚀 About Me
